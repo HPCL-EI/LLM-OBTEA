@@ -1,6 +1,6 @@
 # Integrating Intent Understanding and Optimal Behavior Planning for Behavior Tree Generation from Human instructions
 
-[[Website]](https://papersubmitter.github.io/RoboWaiter/)
+[[Website]]([https://papersubmitter.github.io/RoboWaiter/](https://hpcl-ei.github.io/RoboWaiter-Web/))
 
 This repository contains the code for our project, which is divided into three main sections:
 
